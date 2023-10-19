@@ -1,0 +1,38 @@
+=============================
+Admin Access
+=============================
+URL: http://127.0.0.1:8000/admin/login/?next=/admin/
+User:- admin
+Password:- admin
+
+
+=============================
+User Access
+=============================
+You can Sign with Google 
+or you can create user account by sign up
+
+
+###########################################
+Admin Functionality
+###########################################
+Admin can add, update, delete Songs
+Admin have access to view Users
+Admin have access to view Users Playlist
+Admin have access to view Users Favourite Songs
+Admin have access to delete user or update user.
+Admin also can create playlist for any users.
+Admin can modify Favourite Songs of user
+Admin Login & Logout.
+
+###########################################
+User Functionality
+###########################################
+User have option to login with google or can signup & login.
+User can search song by name, language & singer name.
+USer can view all song.
+User can create playlist.
+User can add songs in playlist.
+User can add songs in Favourite Song.
+User can remove songs from Playlist.
+User can remove songs from Favourite Song.
